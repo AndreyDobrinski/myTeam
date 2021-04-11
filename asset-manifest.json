@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/myTeam/static/css/main.161d484d.chunk.css",
+    "main.js": "/myTeam/static/js/main.d13b2608.chunk.js",
+    "main.js.map": "/myTeam/static/js/main.d13b2608.chunk.js.map",
+    "runtime-main.js": "/myTeam/static/js/runtime-main.ad54befa.js",
+    "runtime-main.js.map": "/myTeam/static/js/runtime-main.ad54befa.js.map",
+    "static/js/2.5e01b767.chunk.js": "/myTeam/static/js/2.5e01b767.chunk.js",
+    "static/js/2.5e01b767.chunk.js.map": "/myTeam/static/js/2.5e01b767.chunk.js.map",
+    "static/js/3.4c46b7ef.chunk.js": "/myTeam/static/js/3.4c46b7ef.chunk.js",
+    "static/js/3.4c46b7ef.chunk.js.map": "/myTeam/static/js/3.4c46b7ef.chunk.js.map",
+    "index.html": "/myTeam/index.html",
+    "static/css/main.161d484d.chunk.css.map": "/myTeam/static/css/main.161d484d.chunk.css.map",
+    "static/js/2.5e01b767.chunk.js.LICENSE.txt": "/myTeam/static/js/2.5e01b767.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/myTeam/static/media/Montserrat-Regular.3cd78665.ttf",
+    "static/media/avatar-aiysha.e119a0c1.jpg": "/myTeam/static/media/avatar-aiysha.e119a0c1.jpg",
+    "static/media/avatar-arthur.098c2e26.jpg": "/myTeam/static/media/avatar-arthur.098c2e26.jpg",
+    "static/media/avatar-kady.78fc482c.jpg": "/myTeam/static/media/avatar-kady.78fc482c.jpg",
+    "static/media/bg-pattern-home-1.270440fb.svg": "/myTeam/static/media/bg-pattern-home-1.270440fb.svg",
+    "static/media/bg-pattern-home-2.889d5d8c.svg": "/myTeam/static/media/bg-pattern-home-2.889d5d8c.svg",
+    "static/media/bg-pattern-home-3.4bc172f9.svg": "/myTeam/static/media/bg-pattern-home-3.4bc172f9.svg",
+    "static/media/bg-pattern-home-4-about-3.aacd4e03.svg": "/myTeam/static/media/bg-pattern-home-4-about-3.aacd4e03.svg",
+    "static/media/bg-pattern-home-5.95a2a621.svg": "/myTeam/static/media/bg-pattern-home-5.95a2a621.svg",
+    "static/media/bg-pattern-home-6-about-5.d6ab17f2.svg": "/myTeam/static/media/bg-pattern-home-6-about-5.d6ab17f2.svg",
+    "static/media/icon-chart.8de3d4d2.svg": "/myTeam/static/media/icon-chart.8de3d4d2.svg",
+    "static/media/icon-cog.c5d2403f.svg": "/myTeam/static/media/icon-cog.c5d2403f.svg",
+    "static/media/icon-facebook.229c75a0.svg": "/myTeam/static/media/icon-facebook.229c75a0.svg",
+    "static/media/icon-linkedin.416b1433.svg": "/myTeam/static/media/icon-linkedin.416b1433.svg",
+    "static/media/icon-person.0a313a85.svg": "/myTeam/static/media/icon-person.0a313a85.svg",
+    "static/media/icon-quotes.c5173921.svg": "/myTeam/static/media/icon-quotes.c5173921.svg",
+    "static/media/icon-twitter.1d5c6d5e.svg": "/myTeam/static/media/icon-twitter.1d5c6d5e.svg",
+    "static/media/logo.9e687f65.svg": "/myTeam/static/media/logo.9e687f65.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad54befa.js",
+    "static/js/2.5e01b767.chunk.js",
+    "static/css/main.161d484d.chunk.css",
+    "static/js/main.d13b2608.chunk.js"
+  ]
+}
